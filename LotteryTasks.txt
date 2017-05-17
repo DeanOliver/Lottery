@@ -1,0 +1,19 @@
+Task 1
+3 matches: 1/17296       (48 nCr 3)
+4 matches: 1/194580      (48 nCr 4)
+5 matches: 1/1712304     (48 nCr 5)
+6 matches: 1/12271512    (48 nCr 6)
+
+Task 2
+I don't know the mathmatics needed to calculate winnings percentages, based on the probability of certain odds and prize pool size. I tried looking online and just came across many papers on the subject, so I have assumed I'm over thinkng it.
+
+These are the rough ones I used after testing them for a while:
+3 matches: 0.000001% payout
+4 matches: 0.00002% payout
+5 matches: 0.0008% payout
+6 matches: 0.20% payout
+
+Probably best I stick to programming and don’t become a bookie right away.
+
+Task 3
+Saved in the folder as Lottery.cpp
